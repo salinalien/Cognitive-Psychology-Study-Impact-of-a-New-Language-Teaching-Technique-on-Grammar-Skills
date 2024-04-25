@@ -13,4 +13,4 @@ run;
 
 
 ## Conclusion
-The p-value associated with the F-test comparing the effectiveness of the new teaching technique is greater than the significance level (e.g., p > α), it implies that there is not enough statistical evidence to conclude that the new technique is more effective than the standard tutoring. In other words, there is no significant difference in grammar skills improvement between the two groups (new technique vs. standard tutoring).
+The p-value associated with the F-test comparing the effectiveness of the new teaching technique is greater than the significance level (i.e., p > α), it implies that there is not enough statistical evidence to conclude that the new technique is more effective than the standard tutoring. In other words, there is no significant difference in grammar skills improvement between the two groups (new technique vs. standard tutoring).
